@@ -1,0 +1,2 @@
+{'little fighter': 'E:\\LF2\\Little Fighter  2\\lf2.exe', 'code': 'C:\\Users\\mr7se\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe', 'music': 'C:\\Users\\mr7se\\Desktop\\Groove Music.lnk', 'browser': 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe', 'projects': 'E:\\Python Projects'}
+{'dir': 'ls', 'pip': 'pip install', 'module': 'pip freeze', 'shutdown': 'shutdown /s /t 1', 'install': 'pip install pyperclip'}

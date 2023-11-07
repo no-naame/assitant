@@ -1,0 +1,1 @@
+{'theme': 'dark', 'name': 'Seven', 'voice': 0, 'rate': 225, 'language': 'en-us', 'music dir': 'D:/Songs/EMINEM', 'microphone': 'default', 'pos': 'top'}
